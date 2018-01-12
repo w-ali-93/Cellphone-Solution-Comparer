@@ -1,0 +1,9 @@
+Table export script MYSQL
+RENAME TABLE csc_db.afghanistan TO dbcsc.afghanistan;
+RENAME TABLE csc_db.atnt TO dbcsc.atnt;
+RENAME TABLE csc_db.ksa TO dbcsc.ksa;
+RENAME TABLE csc_db.morocco TO dbcsc.morocco;
+RENAME TABLE csc_db.pakistan TO dbcsc.pakistan;
+RENAME TABLE csc_db.tmobile TO dbcsc.tmobile;
+RENAME TABLE csc_db.tunisia TO dbcsc.tunisia;
+RENAME TABLE csc_db.uae TO dbcsc.uae;

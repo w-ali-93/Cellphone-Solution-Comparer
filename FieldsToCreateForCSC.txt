@@ -1,0 +1,8 @@
+For Local Countries:
+Country, Full_Coverage, Is_Covered, Average, SMS_OUT, Average_Data, CalcCost(only used in runtime)
+
+For atnt & t-mobile:
+Country, Full_Coverage, Is_Covered, CCall, SMS, DData, CalcCost(only used in runtime)
+
+formula for full_coverage check in excel
+=IF(OR((ISBLANK(D2)),(ISBLANK(F2)),(ISBLANK(E2))),"No","Yes")

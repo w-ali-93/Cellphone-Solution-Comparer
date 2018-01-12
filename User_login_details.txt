@@ -1,0 +1,4 @@
+username: 
+password: 
+server name / ip: sql6.freesqldatabase.com
+database name: 
